@@ -3,7 +3,7 @@
 
 
 
-- 👋 Hi, I’m Jesicca
+- 
 - 👀 I’m interested in Web Development(MERN) and Blockchain
 - 🌱 I’m currently learning Data Science and ML
 - 💞️ I’m looking to collaborate with other NFTs collector!
