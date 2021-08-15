@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Jesicca Nayak</h1>
+
+
+
+
 - 👋 Hi, I’m Jesicca
 - 👀 I’m interested in Web Development(MERN) and Blockchain
 - 🌱 I’m currently learning Data Science and ML
