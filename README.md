@@ -24,11 +24,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/jesicca-nayak-44088b194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg"  alt="sanskar-agrawalla-b300091b7" height="50" width="60" /></a>
-  <a href="https://instagram.com/the_pro_level_insane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="sanskar_153" height="50" width="60" /></a>
+  <a href="https://instagram.com/web3divaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="sanskar_153" height="50" width="60" /></a>
   <a href="https://twitter.com/jesiccanayak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="sanskar_153" height="50" width="60" /></a>
   <a href="https://codepen.io/jesiccanayak123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" alt="sanskaragrawalla" height="50" width="60" /></a>
 <a href="https://www.facebook.com/people/Jessica-Samiksha-Nayak/100009223696674/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" alt="sanskaragrawalla" height="50" width="60" /></a>
-  <a href="https://medium.com/@jesiccanayak2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" alt="sanskaragrawalla" height="50" width="60" /></a>
+  <a href="https://medium.com/@jesiccanayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" alt="sanskaragrawalla" height="50" width="60" /></a>
  </a>
 
 </p>
